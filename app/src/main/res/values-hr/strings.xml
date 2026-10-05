@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SimpleJamb</string>
+    <string name="game_text">Igra</string>
+    <string name="call">Najava</string>
+    <string name="bonus">Za zbroj 60 ili više dodaj 30</string>
+    <string name="max">Maximum</string>
+    <string name="min">Minimum</string>
+    <string name="minMax">Max - Min x br.jedinica</string>
+    <string name="straight">Kenta</string>
+    <string name="full">Ful</string>
+    <string name="poker">Kare</string>
+    <string name="yamb">Jamb</string>
+    <string name="nextTurn">Sljedeći potez</string>
+    <string name="roll">Bacaj</string>
+
+
+    <string name="delete">Obrisati listić?</string>
+    <string name="settings">Postavke</string>
+    <string name="defaultSettings">Zadano</string>
+    <string name="playerSettings">Igrač</string>
+
+    <string name="language">Jezik</string>
+    <string name="mode">Način igre</string>
+    <string name="digital">Digitalne kockice</string>
+    <string name="physical">Fizičke kockice</string>
+    <string name="theme">Tema</string>
+    <string name="systemTheme">Sustavno</string>
+    <string name="lightTheme">Svijetla</string>
+    <string name="darkTheme">Tamna</string>
+
+    <string name="sound">Zvuk</string>
+    <string name="vibration">Vibracija</string>
+</resources>

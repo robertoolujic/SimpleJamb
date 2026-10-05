@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SimpleJamb</string>
+    <string name="game_text">Game</string>
+    <string name="call">Call</string>
+    <string name="bonus">For a sum of 60 or more add 30</string>
+    <string name="max">Maximum</string>
+    <string name="min">Minimum</string>
+    <string name="minMax">Max - Min x num.Aces</string>
+    <string name="straight">Straight</string>
+    <string name="full">Full House</string>
+    <string name="poker">Poker</string>
+    <string name="yamb">Yamb</string>
+    <string name="nextTurn">Next Turn</string>
+    <string name="roll">Roll</string>
+
+    <string name="delete">Delete sheet?</string>
+    <string name="settings">Settings</string>
+    <string name="defaultSettings">Default</string>
+    <string name="playerSettings">Player</string>
+
+    <string name="language">Language</string>
+    <string name="mode">Game mode</string>
+    <string name="digital">Digital dice</string>
+    <string name="physical">Physical dice</string>
+    <string name="theme">Theme</string>
+    <string name="systemTheme">System</string>
+    <string name="lightTheme">Light</string>
+    <string name="darkTheme">Dark</string>
+
+    <string name="sound">Sound</string>
+    <string name="vibration">Vibration</string>
+</resources>
